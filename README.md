@@ -1,0 +1,2 @@
+# teknik_upload_image
+teknik_upload_image
